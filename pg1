@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landing Page Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Landing Page Heading</h1>
+        <p>Description of your offering.</p>
+    </header>
+    <section>
+        <h2>Feature Section</h2>
+        <p>Details about your product or service.</p>
+        <a href="#contact">Contact Us</a>
+    </section>
+    <footer>
+        <p>Contact information, copyright, etc.</p>
+    </footer>
+</body>
+</html>
